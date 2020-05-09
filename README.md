@@ -1,2 +1,5 @@
-# extend
-常用JS插件
+### extends
+
+```
+https://cdn.jsdelivr.net/gh/cuiqg/extends@latest/xxx/xxx.js
+```
